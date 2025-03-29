@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**samsepi01l/samsepi01l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nurislam**, a passionate self-taught programmer diving deep into **cybersecurity, C++, and low-level hacking**. I love breaking things apart just to understand how they work, then putting them back together—sometimes even better than before. 😈
 
-Here are some ideas to get you started:
+---
+### 🔥 What I'm up to:
+- 🛠 Exploring **penetration testing & reverse engineering**
+- 🚀 Building projects with **C++, Go, and Bash**
+- 🏆 Preparing for **international math and robotics competitions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧰 My Toolbox:
+- **Languages:** C++, Go, Python, Bash
+- **Hacking Stuff:** TryHackMe, Docker, Exploit Development
+- **Hardware:** Arduino, ESP32, EV3Dev, Raspberry Pi
+- **OS:** Linux, Windows (soon Hackintosh 😏)
+
+---
+### 🌎 Where to find me:
+- 💬 Ask me anything in **Issues** or **Discussions**
+- 🛠 Check out my projects on **GitHub**
+- 🏴‍☠️ Catch me breaking (and fixing) things in my free time
+
+🚀 **Keep hacking, keep building!**
