@@ -1,19 +1,18 @@
 ### Hey there! 👋
 
-I'm **Nurislam**, a passionate self-taught programmer diving deep into **cybersecurity, C++, and low-level hacking**. I love breaking things apart just to understand how they work, then putting them back together—sometimes even better than before. 😈
+I'm **Nurislam**, a passionate self-taught programmer diving deep into **DevSecOps and low-level programming**. I love breaking things apart just to understand how they work, then putting them back together—sometimes even better than before. 
 
 ---
 ### 🔥 What I'm up to:
 - 🛠 Exploring **penetration testing & reverse engineering**
 - 🚀 Building projects with **C++, Go, and Bash**
-- 🏆 Preparing for **international math and robotics competitions**
+- 🏆 Preparing for **robotics competitions**
 
 ---
 ### 🧰 My Toolbox:
-- **Languages:** C++, Go, Python, Bash
-- **Hacking Stuff:** TryHackMe, Docker, Exploit Development
-- **Hardware:** Arduino, ESP32, EV3Dev, Raspberry Pi
-- **OS:** Linux, Windows (soon Hackintosh 😏)
+- **Languages:** C++, Go, Python, Bash, Java, C#
+- **Hardware:** Arduino Uno, ESP8266
+- **OS:** Linux, Windows
 
 ---
 ### 🌎 Where to find me:
