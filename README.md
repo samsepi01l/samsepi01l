@@ -5,12 +5,12 @@ I'm **Nurislam**, a passionate self-taught programmer diving deep into **DevSecO
 ---
 ### 🔥 What I'm up to:
 - 🛠 Exploring **penetration testing & reverse engineering**
-- 🚀 Building projects with **C++, Go, and Bash**
+- 🚀 Building projects with **C++, Python and Bash**
 - 🏆 Preparing for **robotics competitions**
 
 ---
 ### 🧰 My Toolbox:
-- **Languages:** C++, Go, Python, Bash, Java, C#
+- **Languages:** C++, Python, Bash, C#
 - **Hardware:** Arduino Uno, ESP8266
 - **OS:** Linux, Windows
 
